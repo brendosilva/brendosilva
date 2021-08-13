@@ -1,7 +1,8 @@
 ### Olá eu sou o Brendo Silva, dev back-end
 
 - 📖 Formação: Gestão da Tecnologia da Informação
-- 📌 Skills: HTML | CSS3 | Javascript | NodeJS | MySQL | PostgreSQL
+- 📒 Busca contante pelo conhecimento
+- 📌 Skills: HTML | CSS3 | Javascript | NodeJS | MySQL | PostgreSQL | GIT
 - 🌱 Estudando Typescript, java e spring-boot
 
 <div>
