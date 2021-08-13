@@ -1,7 +1,8 @@
 ### Olá eu sou o Brendo Silva, dev back-end
 
-
-- 🌱 Estudando NodeJS, Typescript, java e spring-boot
+- 📖 Formação: Gestão da Tecnologia da Informação
+- 📌 Skills: HTML | CSS3 | Javascript | NodeJS | MySQL | PostgreSQL
+- 🌱 Estudando Typescript, java e spring-boot
 
 <div>
   <a href="https://github.com/brendosilva">
