@@ -2,7 +2,7 @@
 
 - 📖 Formação: Gestão da Tecnologia da Informação
 - 📒 Busca contante pelo conhecimento
-- 📌 Skills: HTML | CSS3 | NodeJS | Javascript | Typescript | MySQL | PostgreSQL | GIT
+- 📌 Skills: Java | Spring-boot | HTML | CSS3 | NodeJS | Javascript | Typescript | MySQL | PostgreSQL | GIT
 - 🌱 Estudando java, spring-boot e react com typescript
 
 
