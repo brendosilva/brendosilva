@@ -3,7 +3,7 @@
 - 📖 Formação: Gestão da Tecnologia da Informação
 - 📒 Busca contante pelo conhecimento
 - 📌 Skills: HTML | CSS3 | NodeJS | Javascript | Typescript | MySQL | PostgreSQL | GIT
-- 🌱 Estudando Typescript, java e spring-boot
+- 🌱 Estudando java, spring-boot e react com typescript
 
 <div>
   <a href="https://github.com/brendosilva">
@@ -13,10 +13,11 @@
  
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="brendo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align= "center" alt"brendo-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align= "center" alt"brendo-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" alt="brendo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="brendo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align= "center" alt"brendo-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align= "center" alt"brendo-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+ 
        
     
 </div>  
