@@ -3,18 +3,18 @@
 Estou me preparando para atuar como QA Automation Engineer, com foco em automação de testes, qualidade de software e mentalidade de engenharia.
 
 ### Tenho aplicado na prática:
+
 - Automação de testes E2E com Cypress
 - Estruturação de cenários de teste
-- Organização e padronização de testes
-- Boas práticas de qualidade
+- Organização e padronização de testes automatizados
+- Aplicação de boas práticas de qualidade
 
-- 📖 Formação: Gestão da Tecnologia da Informação
-- 🎯 Foco atual: QA Automation & Software Qualitys
-- 📌 Skills:
-Test Automation | Cypress | JavaScript | Node.js
-Java (background técnico) | SQL | Git
-- 🌱 Atualmente aprofundando conhecimentos em:
-Automação E2E | Boas práticas de testes | Estruturação de cenários
+---
+
+- 📖 **Formação:** Gestão da Tecnologia da Informação
+- 🎯 **Foco atual:** QA Automation & Software Quality
+- 📌 **Skills:** Test Automation | Cypress | JavaScript | Node.js | Java (background técnico) | SQL | Git
+- 🌱 **Atualmente aprofundando conhecimentos em:** Automação E2E | Boas práticas de testes | Estruturação de cenários
 
 
  
