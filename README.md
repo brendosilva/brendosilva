@@ -30,11 +30,15 @@ Estou me preparando para atuar como QA Automation Engineer, com foco em automaç
     
 </div>  
   
-  
+---
+
   <br>
 <div>
-  <a href="mailto:breendo.01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank">
-  <a href="https://www.linkedin.com/in/brendo-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/brendo-silva" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="28">
+    </a>
+  </p>
 </div>
 
 
