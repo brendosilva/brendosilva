@@ -4,7 +4,7 @@ Estou me preparando para atuar como QA Automation Engineer, com foco em automaç
 
 ### Tenho aplicado na prática:
 
-- Automação de testes E2E com Cypress
+div Automação de testes E2E com Cypress
 - Estruturação de cenários de teste
 - Organização e padronização de testes automatizados
 - Aplicação de boas práticas de qualidade
@@ -12,29 +12,31 @@ Estou me preparando para atuar como QA Automation Engineer, com foco em automaç
 ---
 
 - 📖 **Formação:** Gestão da Tecnologia da Informação
-- 🎯 **Foco atual:** QA Automation & Software Quality
-- 📌 **Skills:** Test Automation | Cypress | JavaScript | Node.js | Java (background técnico) | SQL | Git
+- 🎯 **Foco atual:** Automação de controle de qualidade e qualidade de software
+- 📌 **Habilidades:** Automação de testes | Cypress | JavaScript | Node.js | Java (técnico de fundo) | SQL | Git
 - 🌱 **Atualmente aprofundando conhecimentos em:** Automação E2E | Boas práticas de testes | Estruturação de cenários
 
 
- 
-<div>
-  <div style="display: inline_block"><br>
-    <p align="center">
-      <img align= "center" alt"brendo-cypress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" width="40" style="margin-right:5px;">
-      <img align="center" alt="brendo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" style="margin-right:5px;">  
-      <img align= "center" alt"brendo-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" >
+altura
+<dividir>
+  <dividir estilo="exibir: bloco_inline"><br>
+    <p alinhar="centro">
+      <imagem alinhar= "centro" alt"brendo-cipreste" alta="30" largura="40" origem="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" largura="40" estilo="margem direita:5px;">
+      <imagem alinhar="centro" alt="brendo-Js" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" largura="40" estilo="margem direita:5px;">  
+      <imagem alinhar= "centro" alt"brendo-java" alta="30" largura="40" origem="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" largura="40" >
     </p>
  
        
     
-</div>  
-  
+</dividir>  
+
+---
   
   <br>
-<div>
-  <a href="mailto:breendo.01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank">
-  <a href="https://www.linkedin.com/in/brendo-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<dividir>
+  <p alinhar="centro">
+    <a href="https://www.linkedin.com/in/brendo-silva" alto="_em branco"><imagem fonte="https://img.shields.io/badge/- LinkedIn-%230077B5?estilo=para o emblema&logotipo=linkedin&logoColor=branco" alto="_em branco" alta="28"></a>
+    </p>
+</dividir>
 
 
