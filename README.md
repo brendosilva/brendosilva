@@ -1,9 +1,20 @@
-### Olá eu sou o Brendo Silva, dev back-end
+### Olá 👋
+
+Estou me preparando para atuar como QA Automation Engineer, com foco em automação de testes, qualidade de software e mentalidade de engenharia.
+
+### Tenho aplicado na prática:
+- Automação de testes E2E com Cypress
+- Estruturação de cenários de teste
+- Organização e padronização de testes
+- Boas práticas de qualidade
 
 - 📖 Formação: Gestão da Tecnologia da Informação
-- 📒 Busca contante pelo conhecimento
-- 📌 Skills: Java | Spring-boot | HTML | CSS3 | NodeJS | Javascript | Typescript | MySQL | PostgreSQL | GIT
-- 🌱 Estudando java, spring-boot e react com typescript
+- 🎯 Foco atual: QA Automation & Software Qualitys
+- 📌 Skills:
+Test Automation | Cypress | JavaScript | Node.js
+Java (background técnico) | SQL | Git
+- 🌱 Atualmente aprofundando conhecimentos em:
+Automação E2E | Boas práticas de testes | Estruturação de cenários
 
 
  
